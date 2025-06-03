@@ -29,7 +29,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "lakori4-p5-frontend-63"
+          project: "wizardoz-pr5-front-21"
           entrypoint: "main.ts"
           root: "."
           
