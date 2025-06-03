@@ -1,0 +1,39 @@
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: absolute;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.fullscreen {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.white {
+  background-color: #f0f0f0;
+}
+
+.light-brown {
+  background-color: #b9ac9e;
+}
+
+.light-blue {
+  background-color: #a9bfd4;
+}
+
+.orange {
+  background-color: #eab676;
+}
